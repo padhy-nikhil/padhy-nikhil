@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there 👋 I'm Nikhil
 
-<!--
-**padhy-nikhil/padhy-nikhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & ML Student  
+💻 Learning Java, Python & Data Structures  
+🤖 Exploring Artificial Intelligence and Software Development  
+🚀 Building projects and improving problem-solving skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Java
+- Python
+- C Programming
+- DSA
+- Git & GitHub
+
+---
+
+## 📚 Currently Learning
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Machine Learning Basics
+- Git & Open Source
+
+---
+
+## 🎯 Goals
+- Build real-world AI/ML projects
+- Improve problem-solving skills
+- Contribute to open source
+- Become a skilled Software & AI Engineer
+
+---
+
+## 📫 Connect With Me
+- LinkedIn:https://www.linkedin.com/in/nikhilpadhy-aiml
+- GitHub: https://github.com/padhy-nikhil
+
+---
+
+⭐ Always learning and building
